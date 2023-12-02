@@ -2,6 +2,8 @@ import React, { useState } from "react"
 import "./App.css"
 import data from "./resources/countryData.json"
 
+// functionality
+
 function App() {
   const [value,setValue]=useState("")
 
